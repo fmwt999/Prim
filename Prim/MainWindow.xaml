@@ -1,0 +1,20 @@
+﻿<Window x:Class="Prim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prim"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="434" Margin="624,0,0,0" VerticalAlignment="Center" Width="329" Source="/3cece4177bb72602f5cba3275d369872.jpg"/>
+        <Label x:Name="Name" Content="Периметр" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiCondensed" FontSize="24" Background="Black" Foreground="White"/>
+        <Label x:Name="Num_1" Content="Высота" HorizontalAlignment="Left" Margin="156,104,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold SemiCondensed" FontSize="18" RenderTransformOrigin="1.113,0.634"/>
+        <Label x:Name="Num_2" Content="Ширина" HorizontalAlignment="Left" Margin="400,104,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold SemiCondensed" FontSize="18"/>
+        <TextBox x:Name="Num1_TB" HorizontalAlignment="Left" Margin="127,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" SelectionOpacity="-3"/>
+        <TextBox x:Name="Num2_TB" HorizontalAlignment="Left" Margin="373,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" SelectionOpacity="-3"/>
+        <Label x:Name="Res" Content="Результат" HorizontalAlignment="Left" Margin="275,0,0,0" VerticalAlignment="Center" FontFamily="Bahnschrift SemiBold SemiCondensed" FontSize="18" RenderTransformOrigin="1.113,0.634"/>
+        <TextBox x:Name="Res_TB" HorizontalAlignment="Left" Margin="255,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" SelectionOpacity="-3"/>
+        <Button x:Name="Butt" Content="КНОПКА" HorizontalAlignment="Left" Margin="266,342,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiLight" FontSize="24" Click="Butt_Click"/>
+    </Grid>
+</Window>

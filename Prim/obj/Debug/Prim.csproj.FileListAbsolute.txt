@@ -1,0 +1,16 @@
+C:\Users\astas\source\repos\Prim\Prim\bin\Debug\Prim.exe.config
+C:\Users\astas\source\repos\Prim\Prim\bin\Debug\Prim.exe
+C:\Users\astas\source\repos\Prim\Prim\bin\Debug\Prim.pdb
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim.csproj.AssemblyReference.cache
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim.csproj.SuggestedBindingRedirects.cache
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\MainWindow.g.cs
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\App.g.cs
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim_MarkupCompile.cache
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim_MarkupCompile.lref
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\MainWindow.baml
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim.g.resources
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim.Properties.Resources.resources
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim.csproj.GenerateResource.cache
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim.csproj.CoreCompileInputs.cache
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim.exe
+C:\Users\astas\source\repos\Prim\Prim\obj\Debug\Prim.pdb
